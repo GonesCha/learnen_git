@@ -1,3 +1,3 @@
-function addNumber[]{
-	return a+b;
+function deductNumber[]{
+	return a-b;
 }
